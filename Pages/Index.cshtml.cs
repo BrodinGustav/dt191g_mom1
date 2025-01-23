@@ -1,7 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace dt191g_mom1.Pages;
+namespace dt191g_mom1.Pages
+{
+
 
 public class IndexModel : PageModel
 {
@@ -16,4 +18,5 @@ public class IndexModel : PageModel
     {
 
     }
+}
 }

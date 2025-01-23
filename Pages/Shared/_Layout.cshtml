@@ -16,7 +16,7 @@
         <!--Sätter en div till vänster, en till höger om sidan-->
         <div class="grid text-center" style="--bs-columns: 4; --bs-gap: 5rem; justify-content: space-around; display:block flex;align-items: center;">
             <div class="g-col-2"><h1>dt191g_mom1</h1></div>
-            <div class="g-col-2 bg-gray"><p>Dagens datum är: <span>@DateTime.Today.ToString("d")<span></p></div> <!--Hämtar in Dagens datum exkl tid-->
+            <div class="g-col-2 bg-gray"><p>Dagens datum är:  @Model.CurrentDateTime</p> <!--Hämtar in Dagens datum exkl tid-->
         </div>
     </header>
 

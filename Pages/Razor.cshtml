@@ -2,5 +2,20 @@
 @model moment1.Pages.RazorModel
 @{
     ViewData["Title"] = "Razor";
-
 }
+
+<div class="text-left">
+    <h1 class="display-4">Razor</h1>
+
+    <h2>Information</h2>
+    <p>Datum/klockslag: <span>@DateTime.Today.ToString()<span></p> <!--Hämtar in Dagens datum inkl tid-->
+    <p>Utskrift om fredag</p>
+    <p>Kurser jag läst</p>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+    </ul>
+
+</div>
+

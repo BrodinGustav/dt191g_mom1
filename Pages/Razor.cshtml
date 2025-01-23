@@ -10,7 +10,7 @@
 
     <h2>Information</h2>
     <p>Datum/klockslag: @Model.CurrentDateTime</p> <!--Hämtar in Dagens datum inkl tid-->
-    <p>Utskrift om fredag</p>
+    <p>@Model.CheckIfFriday()</p>                   <!--Amropar metod från RazorModel-->
     <p>Kurser jag läst</p>
     <ul>
         <li>1</li>

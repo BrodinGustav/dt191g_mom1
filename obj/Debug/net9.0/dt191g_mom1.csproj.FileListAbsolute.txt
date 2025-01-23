@@ -76,8 +76,6 @@ C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\y7l1dvzx5f-fw
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\7y69f74s58-dd6z7egasc.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\n8dogui6g0-5pze98is44.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\2hdtnbd2ey-mlv21k5csn.gz
-C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\10u0gr2chr-kq4bbtsnxm.gz
-C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\lxduouqpn6-kq4bbtsnxm.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\staticwebassets.build.json
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\staticwebassets.development.json
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -92,3 +90,6 @@ C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\refint\dt191g_mom1.dll
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\dt191g_mom1.pdb
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\dt191g_mom1.genruntimeconfig.cache
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\ref\dt191g_mom1.dll
+C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\dt191g_mom1.sourcelink.json
+C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\10u0gr2chr-w9c9ynxjph.gz
+C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\lxduouqpn6-w9c9ynxjph.gz

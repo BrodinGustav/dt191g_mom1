@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Utbildning/d191g_ASPNET/dt191g_mom1/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Utbildning/d191g_ASPNET/dt191g_mom1/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,8 +36,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Utbildning/d191g_ASPNET/dt191g_mom1/Pages/Razor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Utbildning/d191g_ASPNET/dt191g_mom1/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Utbildning/d191g_ASPNET/dt191g_mom1/Pages/Start.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Utbildning/d191g_ASPNET/dt191g_mom1/Pages/_ViewImports.cshtml]

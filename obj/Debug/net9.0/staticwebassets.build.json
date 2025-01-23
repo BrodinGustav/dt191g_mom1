@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eQapr9LVNtmiJbOtXCB62H9tE3cfjPLFVRL9POrvKiI=",
+  "Hash": "YVPuGc0Oyv6SgcRwoAWZR7jhyFYjzz6U4ODeePuJEEU=",
   "Source": "dt191g_mom1",
   "BasePath": "_content/dt191g_mom1",
   "Mode": "Default",
@@ -59,12 +59,12 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-kq4bbtsnxm.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-w9c9ynxjph.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "dt191g_mom1#[.{fingerprint=kq4bbtsnxm}]?.styles.css.gz",
+      "RelativePath": "dt191g_mom1#[.{fingerprint=w9c9ynxjph}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -73,8 +73,8 @@
       "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qwash9a7gp",
-      "Integrity": "OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=",
+      "Fingerprint": "chs2601f47",
+      "Integrity": "UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1.styles.css"
@@ -815,12 +815,12 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-kq4bbtsnxm.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-w9c9ynxjph.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "dt191g_mom1#[.{fingerprint=kq4bbtsnxm}]!.bundle.scp.css.gz",
+      "RelativePath": "dt191g_mom1#[.{fingerprint=w9c9ynxjph}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -829,8 +829,8 @@
       "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\dt191g_mom1.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qwash9a7gp",
-      "Integrity": "OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=",
+      "Fingerprint": "chs2601f47",
+      "Integrity": "UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\dt191g_mom1.bundle.scp.css"
@@ -1312,8 +1312,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "kq4bbtsnxm",
-      "Integrity": "vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=",
+      "Fingerprint": "w9c9ynxjph",
+      "Integrity": "ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1.styles.css"
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "kq4bbtsnxm",
-      "Integrity": "vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=",
+      "Fingerprint": "w9c9ynxjph",
+      "Integrity": "ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\dt191g_mom1.bundle.scp.css"
@@ -2901,12 +2901,12 @@
     },
     {
       "Route": "dt191g_mom1.bundle.scp.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-kq4bbtsnxm.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-w9c9ynxjph.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,001848428835"
+          "Quality": "0,001612903226"
         }
       ],
       "ResponseHeaders": [
@@ -2916,15 +2916,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "619"
         },
         {
           "Name": "ETag",
-          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
+          "Value": "\"UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:43:20 GMT"
+          "Value": "Thu, 23 Jan 2025 11:10:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2944,13 +2944,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
+          "Value": "W/\"ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
+          "Value": "sha256-ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ="
         }
       ]
     },
@@ -2965,7 +2965,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1129"
+          "Value": "1345"
         },
         {
           "Name": "Content-Type",
@@ -2973,11 +2973,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
+          "Value": "\"ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:43:20 GMT"
+          "Value": "Thu, 23 Jan 2025 11:10:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2987,13 +2987,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
+          "Value": "sha256-ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ="
         }
       ]
     },
     {
       "Route": "dt191g_mom1.bundle.scp.css.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-kq4bbtsnxm.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-w9c9ynxjph.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3002,7 +3002,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "619"
         },
         {
           "Name": "Content-Type",
@@ -3010,11 +3010,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
+          "Value": "\"UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:43:20 GMT"
+          "Value": "Thu, 23 Jan 2025 11:10:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3032,18 +3032,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw="
+          "Value": "sha256-UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU="
         }
       ]
     },
     {
-      "Route": "dt191g_mom1.kq4bbtsnxm.bundle.scp.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-kq4bbtsnxm.gz",
+      "Route": "dt191g_mom1.styles.css",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-w9c9ynxjph.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,001848428835"
+          "Quality": "0,001612903226"
         }
       ],
       "ResponseHeaders": [
@@ -3053,15 +3053,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "619"
         },
         {
           "Name": "ETag",
-          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
+          "Value": "\"UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:43:20 GMT"
+          "Value": "Thu, 23 Jan 2025 11:10:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ="
+        }
+      ]
+    },
+    {
+      "Route": "dt191g_mom1.styles.css",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 11:10:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ="
+        }
+      ]
+    },
+    {
+      "Route": "dt191g_mom1.styles.css.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-w9c9ynxjph.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 11:10:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU="
+        }
+      ]
+    },
+    {
+      "Route": "dt191g_mom1.w9c9ynxjph.bundle.scp.css",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-w9c9ynxjph.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,001612903226"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 11:10:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3081,13 +3218,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
+          "Value": "W/\"ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kq4bbtsnxm"
+          "Value": "w9c9ynxjph"
         },
         {
           "Name": "label",
@@ -3095,12 +3232,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
+          "Value": "sha256-ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ="
         }
       ]
     },
     {
-      "Route": "dt191g_mom1.kq4bbtsnxm.bundle.scp.css",
+      "Route": "dt191g_mom1.w9c9ynxjph.bundle.scp.css",
       "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\dt191g_mom1.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3110,7 +3247,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1129"
+          "Value": "1345"
         },
         {
           "Name": "Content-Type",
@@ -3118,11 +3255,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
+          "Value": "\"ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:43:20 GMT"
+          "Value": "Thu, 23 Jan 2025 11:10:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3132,7 +3269,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kq4bbtsnxm"
+          "Value": "w9c9ynxjph"
         },
         {
           "Name": "label",
@@ -3140,13 +3277,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
+          "Value": "sha256-ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ="
         }
       ]
     },
     {
-      "Route": "dt191g_mom1.kq4bbtsnxm.bundle.scp.css.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-kq4bbtsnxm.gz",
+      "Route": "dt191g_mom1.w9c9ynxjph.bundle.scp.css.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-w9c9ynxjph.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3155,7 +3292,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "619"
         },
         {
           "Name": "Content-Type",
@@ -3163,11 +3300,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
+          "Value": "\"UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:43:20 GMT"
+          "Value": "Thu, 23 Jan 2025 11:10:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3185,7 +3322,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kq4bbtsnxm"
+          "Value": "w9c9ynxjph"
         },
         {
           "Name": "label",
@@ -3193,18 +3330,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw="
+          "Value": "sha256-UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU="
         }
       ]
     },
     {
-      "Route": "dt191g_mom1.kq4bbtsnxm.styles.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-kq4bbtsnxm.gz",
+      "Route": "dt191g_mom1.w9c9ynxjph.styles.css",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-w9c9ynxjph.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,001848428835"
+          "Quality": "0,001612903226"
         }
       ],
       "ResponseHeaders": [
@@ -3214,15 +3351,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "619"
         },
         {
           "Name": "ETag",
-          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
+          "Value": "\"UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:43:20 GMT"
+          "Value": "Thu, 23 Jan 2025 11:10:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3242,13 +3379,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
+          "Value": "W/\"ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kq4bbtsnxm"
+          "Value": "w9c9ynxjph"
         },
         {
           "Name": "label",
@@ -3256,12 +3393,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
+          "Value": "sha256-ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ="
         }
       ]
     },
     {
-      "Route": "dt191g_mom1.kq4bbtsnxm.styles.css",
+      "Route": "dt191g_mom1.w9c9ynxjph.styles.css",
       "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3271,7 +3408,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1129"
+          "Value": "1345"
         },
         {
           "Name": "Content-Type",
@@ -3279,11 +3416,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
+          "Value": "\"ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:43:20 GMT"
+          "Value": "Thu, 23 Jan 2025 11:10:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3293,7 +3430,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kq4bbtsnxm"
+          "Value": "w9c9ynxjph"
         },
         {
           "Name": "label",
@@ -3301,13 +3438,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
+          "Value": "sha256-ZJTfFdk/nQ1QAOyhsQcWVqWF4KifUMXdZp5FU/NbYGQ="
         }
       ]
     },
     {
-      "Route": "dt191g_mom1.kq4bbtsnxm.styles.css.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-kq4bbtsnxm.gz",
+      "Route": "dt191g_mom1.w9c9ynxjph.styles.css.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-w9c9ynxjph.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3316,7 +3453,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "619"
         },
         {
           "Name": "Content-Type",
@@ -3324,11 +3461,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
+          "Value": "\"UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:43:20 GMT"
+          "Value": "Thu, 23 Jan 2025 11:10:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3346,7 +3483,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kq4bbtsnxm"
+          "Value": "w9c9ynxjph"
         },
         {
           "Name": "label",
@@ -3354,144 +3491,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw="
-        }
-      ]
-    },
-    {
-      "Route": "dt191g_mom1.styles.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-kq4bbtsnxm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,001848428835"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "540"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:43:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
-        }
-      ]
-    },
-    {
-      "Route": "dt191g_mom1.styles.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1129"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:43:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
-        }
-      ]
-    },
-    {
-      "Route": "dt191g_mom1.styles.css.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-kq4bbtsnxm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "540"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:43:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw="
+          "Value": "sha256-UG1v1K7djamS8NyycYxkYRLe2TLgTVRWAofnVfS3xaU="
         }
       ]
     },

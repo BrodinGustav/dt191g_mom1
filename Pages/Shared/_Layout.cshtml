@@ -3,31 +3,32 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewData["Title"] - dt191g_mom1</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/dt191g_mom1.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true">
+    <link rel="stylesheet" href="~/dt191g_mom1.styles.css" asp-append-version="true">
 </head>
 
 <body>
     <!-- Header -->
     <header class="bg-primary text-white py-3">
 
- <div class="container">
-        <div class="row align-items-center">
-            <!-- Första kolumnen -->
-            <div class="col-md-6 text-center text-md-start"> <!--Varje kolumn tar upp halva bredden vid viewport >768px och staplas i column vid <- 768px-->
-                <h1>dt191g_mom1</h1>
-            </div>
+        <div class="container">
+            <div class="row align-items-center">
+                <!-- Första kolumnen -->
+                <div class="col-md-6 text-center text-md-start">
+                    <!--Varje kolumn tar upp halva bredden vid viewport >768px och staplas i column vid <- 768px-->
+                    <h1>dt191g_mom1</h1>
+                </div>
 
                 <!-- Andra kolumnen -->
-            <div class="col-md-6 text-center text-md-end">
-                <p>Dagens datum är: @Model.CurrentDateTime</p>
-            </div>
+                <div class="col-md-6 text-center text-md-end">
+                    <p>Dagens datum är: @Model.CurrentDateTime</p>
+                </div>
 
+            </div>
         </div>
- </div>
     </header>
 
     <!-- Main content area -->
@@ -44,7 +45,12 @@
                     <li><a class="nav-link text-dark" asp-area="" asp-page="/Razor">Razor</a></li>
                     <li><a class="nav-link text-dark" asp-area="" asp-page="/About">Om sidan</a></li>
                 </ul>
+
+                <!--Knapp för darkmode-->
+                <button id="darkModeToggle">Växla Dark Mode</button>
+            
             </div>
+
 
             <!-- Right column: Välkomsttext.- Tar upp 9 kolumner av 12 -->
             <div class="col-md-9 p-3">

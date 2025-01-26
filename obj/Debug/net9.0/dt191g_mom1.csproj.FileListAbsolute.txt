@@ -18,7 +18,6 @@ C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\scopedcss\Pages\Shared\_
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\scopedcss\bundle\dt191g_mom1.styles.css
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\scopedcss\projectbundle\dt191g_mom1.bundle.scp.css
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\30mc4hnsq8-61n19gt1b8.gz
-C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\oiuoqwcume-xtxxf3hu2r.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\m3wfg126ao-agp80tu62r.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\l6zyyjcvdm-st1cbwfwo5.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\5tux8w9ztv-unj9p35syc.gz
@@ -78,7 +77,6 @@ C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\dt191g_mom1.pdb
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\dt191g_mom1.genruntimeconfig.cache
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\ref\dt191g_mom1.dll
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\dt191g_mom1.sourcelink.json
-C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\wm5vuyu1n7-gs5kwo9bz1.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\ms3a76sank-l2av4jpuoj.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\neee2a098r-kbynt5jhd9.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\a9wpybz29e-25iw1kog22.gz
@@ -93,3 +91,5 @@ C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\ep4tnm1ao7-zw
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\aq96b0g30i-u33ctipx7g.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\10u0gr2chr-kq4bbtsnxm.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\lxduouqpn6-kq4bbtsnxm.gz
+C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\oiuoqwcume-7qg73t2dtk.gz
+C:\Utbildning\d191g_ASPNET\dt191g_mom1\obj\Debug\net9.0\compressed\wm5vuyu1n7-cur7aiaqo7.gz

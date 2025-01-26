@@ -10,14 +10,21 @@
 
     <h2>Information</h2>
 
-    <h3>Datum/klockslag:</h3> <p>@Model.CurrentDateTime</p> <!--Hämtar in Dagens datum inkl tid-->
+    <br>
+    
+    <h3>Datum/klockslag:</h3> <p>@Model.CurrentDateTime</p> <!--Hämtar in Dagens datum inkl tid från RazorModel-->
+
+    <br>
 
     <p>@Model.CheckIfFriday()</p> <!--Amropar metod från RazorModel-->
+
+    <br>
 
     <h4></style:>Kurser jag läst</h4>
 
     <div>
         <ul>
+            <!--Skriver ut kurser från <List> in RazorModel-->
             @foreach (var course in Model.Courses)
             {
                 <li>@course</li>

@@ -7,8 +7,10 @@ namespace dt191g_mom1.Pages
 {
     public class RazorModel : PageModel
     {
+        //Property som lagrar aktuellt datum och tid
         public string CurrentDateTime { get; private set; }
 
+        //Lista över lästa kurser
         public List<string> Courses = new List<string>
         {
         "Datateknik GR (A), Introduktion till programmering i JavaScript - DT084G",
@@ -25,15 +27,17 @@ namespace dt191g_mom1.Pages
         "Datateknik GR (B), Fullstack-utveckling med ramverk - DT193G"
         };
 
+
+         //Metod som körs när sidan laddas
         public void OnGet()
         {
 
-            // Sätt datum och tid som en egenskap
+            //Lagrar aktuell tid enligt format  "ÅÅÅÅ-MM-DD HH:MM:SS"
             CurrentDateTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
 
         }
 
-        //Fredags-koll
+        //Kontroll om aktuell dag är fredag
         public string CheckIfFriday()
         {
 
@@ -48,9 +52,6 @@ namespace dt191g_mom1.Pages
             }
 
         }
-
-        //Loop över kurser
-
 
     }
 }

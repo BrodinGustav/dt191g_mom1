@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PjAsD8bpAyfjTQBSnDGX2/8n2RVFCZNWj6y1TZ11+Kk=",
+  "Hash": "lLKjwqqEvqZZPEsHhvMB1ynbgXv6PcXx1uESSkmJfMc=",
   "Source": "dt191g_mom1",
   "BasePath": "_content/dt191g_mom1",
   "Mode": "Default",
@@ -38,33 +38,33 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\0ddqhybqz7-2lgwfvgpvi.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\0lxedtoztr-um2aeqy4ik.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint=2lgwfvgpvi}]?.map.gz",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.esm.min#[.{fingerprint=um2aeqy4ik}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cikr8v5s7p",
-      "Integrity": "lNRP3O0nFWZhWpjpck5ulPMCB2Bnrppwveqhgy138nM=",
+      "Fingerprint": "s6grspgwfm",
+      "Integrity": "tCrrp0DuPZlJK/fI2hFuK45BOU16Sy8WyniyHriGDcI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-v1trfta9re.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-kq4bbtsnxm.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "dt191g_mom1#[.{fingerprint=v1trfta9re}]?.styles.css.gz",
+      "RelativePath": "dt191g_mom1#[.{fingerprint=kq4bbtsnxm}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -73,8 +73,8 @@
       "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ygl99t1c4c",
-      "Integrity": "8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo=",
+      "Fingerprint": "qwash9a7gp",
+      "Integrity": "OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1.styles.css"
@@ -185,48 +185,6 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\4gqalhxayp-25iw1kog22.gz",
-      "SourceId": "dt191g_mom1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint=25iw1kog22}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "uh2rlrsxma",
-      "Integrity": "njmZclDkek3Rko8hweevbif665VAdjFnPrkUpRGkyLs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\4vjs266fo3-o4kw7cc6tf.gz",
-      "SourceId": "dt191g_mom1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint=o4kw7cc6tf}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "4clwxvj8ra",
-      "Integrity": "/P5dBz0+uD3Q0SyBvsx9tXY+fWVuNpQJ3Z1wN6cEb1o=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\4z34it0sfz-ab1c3rmv7g.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
@@ -290,27 +248,6 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\6q7ur5istf-6ukhryfubh.gz",
-      "SourceId": "dt191g_mom1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint=6ukhryfubh}]?.map.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "hpwm18plod",
-      "Integrity": "6x/BAWJw8hP33NpVYTa7MltRV9tTCNFs7uvOaYwRztg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\6wrtb87pct-7na4sro3qu.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
@@ -332,27 +269,6 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\71z37sl093-um2aeqy4ik.gz",
-      "SourceId": "dt191g_mom1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint=um2aeqy4ik}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "s6grspgwfm",
-      "Integrity": "tCrrp0DuPZlJK/fI2hFuK45BOU16Sy8WyniyHriGDcI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\76rtfy8evf-5vj65cig9w.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
@@ -372,6 +288,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\79ttptan1f-c2nslu3uf3.gz",
+      "SourceId": "dt191g_mom1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dt191g_mom1",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js#[.{fingerprint=c2nslu3uf3}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.min.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "apabyitp5s",
+      "Integrity": "EvsyrEWuCOOoHbis7gVKnIIalrHJ8y7bNPsWjb8bxeo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.min.js.map"
     },
     {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\7y69f74s58-dd6z7egasc.gz",
@@ -437,6 +374,27 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\a9wpybz29e-25iw1kog22.gz",
+      "SourceId": "dt191g_mom1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dt191g_mom1",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.bundle.min#[.{fingerprint=25iw1kog22}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uh2rlrsxma",
+      "Integrity": "njmZclDkek3Rko8hweevbif665VAdjFnPrkUpRGkyLs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.min.js"
+    },
+    {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\agwkb3s39b-0wve5yxp74.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
@@ -456,6 +414,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\aq96b0g30i-u33ctipx7g.gz",
+      "SourceId": "dt191g_mom1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dt191g_mom1",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.min.js#[.{fingerprint=u33ctipx7g}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.min.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0rflaay1p3",
+      "Integrity": "BKtivfF5g/umxPvLIWZh0P9HP8pfhfvDKFIkRbRaan0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.min.js.map"
     },
     {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\aukij46r1y-4v8eqarkd7.gz",
@@ -584,25 +563,25 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\drt6779nik-u33ctipx7g.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ep4tnm1ao7-zwph15dxgs.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint=u33ctipx7g}]?.map.gz",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.min#[.{fingerprint=zwph15dxgs}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0rflaay1p3",
-      "Integrity": "BKtivfF5g/umxPvLIWZh0P9HP8pfhfvDKFIkRbRaan0=",
+      "Fingerprint": "vlx436cpno",
+      "Integrity": "Iz7wHWHbwIpIUvkqK980cWlvL5BOI/tDD9Iy0/DMr6c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.min.js"
     },
     {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\g23ui1svlu-56d2bn4wt9.gz",
@@ -645,27 +624,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\gnkc6b7yxp-l2av4jpuoj.gz",
-      "SourceId": "dt191g_mom1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint=l2av4jpuoj}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "rnxragnfax",
-      "Integrity": "J53M00VUki4N0F3ECLByrWXwXoZueJC6rktPZYMF0g0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\hm288eyy2o-9b9oa1qrmt.gz",
@@ -815,12 +773,33 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-v1trfta9re.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\l7b38o105f-o4kw7cc6tf.gz",
+      "SourceId": "dt191g_mom1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dt191g_mom1",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap#[.{fingerprint=o4kw7cc6tf}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4clwxvj8ra",
+      "Integrity": "/P5dBz0+uD3Q0SyBvsx9tXY+fWVuNpQJ3Z1wN6cEb1o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-kq4bbtsnxm.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "dt191g_mom1#[.{fingerprint=v1trfta9re}]!.bundle.scp.css.gz",
+      "RelativePath": "dt191g_mom1#[.{fingerprint=kq4bbtsnxm}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -829,8 +808,8 @@
       "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\dt191g_mom1.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ygl99t1c4c",
-      "Integrity": "8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo=",
+      "Fingerprint": "qwash9a7gp",
+      "Integrity": "OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\dt191g_mom1.bundle.scp.css"
@@ -857,6 +836,27 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ms3a76sank-l2av4jpuoj.gz",
+      "SourceId": "dt191g_mom1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dt191g_mom1",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.bundle#[.{fingerprint=l2av4jpuoj}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rnxragnfax",
+      "Integrity": "J53M00VUki4N0F3ECLByrWXwXoZueJC6rktPZYMF0g0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.js"
+    },
+    {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\n8dogui6g0-5pze98is44.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
@@ -876,6 +876,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\neee2a098r-kbynt5jhd9.gz",
+      "SourceId": "dt191g_mom1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dt191g_mom1",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.bundle.js#[.{fingerprint=kbynt5jhd9}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qqshsrwmf4",
+      "Integrity": "Puz7uN6INReGwDKTljhQHBxopWLUP0oVXVmlnAQvj2Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.js.map"
     },
     {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\nl1ovw1d9r-po14pxpyqq.gz",
@@ -962,25 +983,25 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\qf6669tcwg-kbynt5jhd9.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\pnksnjr5mv-2lgwfvgpvi.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint=kbynt5jhd9}]?.map.gz",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.esm.js#[.{fingerprint=2lgwfvgpvi}]?.map.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.js.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qqshsrwmf4",
-      "Integrity": "Puz7uN6INReGwDKTljhQHBxopWLUP0oVXVmlnAQvj2Q=",
+      "Fingerprint": "cikr8v5s7p",
+      "Integrity": "lNRP3O0nFWZhWpjpck5ulPMCB2Bnrppwveqhgy138nM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.js.map"
     },
     {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\rjwyw6sh8u-fctod5rc9n.gz",
@@ -1002,27 +1023,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\rr8n6kse3p-zwph15dxgs.gz",
-      "SourceId": "dt191g_mom1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint=zwph15dxgs}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "vlx436cpno",
-      "Integrity": "Iz7wHWHbwIpIUvkqK980cWlvL5BOI/tDD9Iy0/DMr6c=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\sfpg616yiz-q2ku51ktnl.gz",
@@ -1067,27 +1067,6 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\tr6j8adwyx-wsezl0heh6.gz",
-      "SourceId": "dt191g_mom1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint=wsezl0heh6}]?.map.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "fiww15bwpq",
-      "Integrity": "aQ77Ljc5MWeqIzFi5cqYUjN0oCzftyStrbvyqEiifPU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\w2ilrwy2on-2q4vfeazbq.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
@@ -1107,6 +1086,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\w631ziyhd4-m39kt2b5c9.gz",
+      "SourceId": "dt191g_mom1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dt191g_mom1",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.esm#[.{fingerprint=m39kt2b5c9}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6r9176u4wp",
+      "Integrity": "ogZ1M8+wFARYvIRdEduoL3Smy3BtOIqfopxexJ0jTXY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.js"
     },
     {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wa6rifyngq-bpk8xqwxhs.gz",
@@ -1130,12 +1130,12 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wm5vuyu1n7-b9sayid5wm.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wm5vuyu1n7-gs5kwo9bz1.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=gs5kwo9bz1}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1144,11 +1144,32 @@
       "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "dpddptfgh1",
+      "Integrity": "Xzx2BN7L8XDuCMxnRJJtocT85kMiie4bTJPlu9F7ezM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wz2n7izwy2-6ukhryfubh.gz",
+      "SourceId": "dt191g_mom1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dt191g_mom1",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.js#[.{fingerprint=6ukhryfubh}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hpwm18plod",
+      "Integrity": "6x/BAWJw8hP33NpVYTa7MltRV9tTCNFs7uvOaYwRztg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.js.map"
     },
     {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\x4rdsklp9b-ve6x09088i.gz",
@@ -1172,27 +1193,6 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\y5yf1gknww-m39kt2b5c9.gz",
-      "SourceId": "dt191g_mom1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint=m39kt2b5c9}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "6r9176u4wp",
-      "Integrity": "ogZ1M8+wFARYvIRdEduoL3Smy3BtOIqfopxexJ0jTXY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\y7l1dvzx5f-fwhahm2icz.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
@@ -1212,27 +1212,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ywj3xp42p7-c2nslu3uf3.gz",
-      "SourceId": "dt191g_mom1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint=c2nslu3uf3}]?.map.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "apabyitp5s",
-      "Integrity": "EvsyrEWuCOOoHbis7gVKnIIalrHJ8y7bNPsWjb8bxeo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\zcp047yeg3-9oaff4kq20.gz",
@@ -1277,6 +1256,27 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\zeqrr4knbj-wsezl0heh6.gz",
+      "SourceId": "dt191g_mom1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dt191g_mom1",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js#[.{fingerprint=wsezl0heh6}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.min.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fiww15bwpq",
+      "Integrity": "aQ77Ljc5MWeqIzFi5cqYUjN0oCzftyStrbvyqEiifPU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.min.js.map"
+    },
+    {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\zkz42mnlk9-16095smhkz.gz",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
@@ -1312,8 +1312,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "v1trfta9re",
-      "Integrity": "065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o=",
+      "Fingerprint": "kq4bbtsnxm",
+      "Integrity": "vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1.styles.css"
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "v1trfta9re",
-      "Integrity": "065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o=",
+      "Fingerprint": "kq4bbtsnxm",
+      "Integrity": "vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\dt191g_mom1.bundle.scp.css"
@@ -1354,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "gs5kwo9bz1",
+      "Integrity": "sNUCKjqNoS6Ue1S+mraoAvUWojasXgdgis24dsXQrjo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2075,12 +2075,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.js",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2093,15 +2093,15 @@
       "Integrity": "vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.js.map",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2114,15 +2114,15 @@
       "Integrity": "gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.min.js",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2135,15 +2135,15 @@
       "Integrity": "KuvCVS19rfTjoLgMyDDCdOkRRlhNrY4psEM4uezts2M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2156,15 +2156,15 @@
       "Integrity": "xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.js",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2177,15 +2177,15 @@
       "Integrity": "EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.js.map",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2198,15 +2198,15 @@
       "Integrity": "CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.min.js",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2219,15 +2219,15 @@
       "Integrity": "Kj4irQWPwfSb5NFeos/h0IroI5/nIg0HtAjQ+w4v6TE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.min.js.map",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2240,15 +2240,15 @@
       "Integrity": "sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.js",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2261,15 +2261,15 @@
       "Integrity": "6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.js.map",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2282,15 +2282,15 @@
       "Integrity": "Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.min.js",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2303,15 +2303,15 @@
       "Integrity": "c4Ll6eSIg6Eothk8pCWAF8aE923EvtU11pqjBy+NjNM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.min.js.map",
       "SourceId": "dt191g_mom1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\",
       "BasePath": "_content/dt191g_mom1",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
+      "RelativePath": "lib/bootstrap/dist/css/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2324,7 +2324,7 @@
       "Integrity": "ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.min.js.map"
     },
     {
       "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -2602,8 +2602,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wm5vuyu1n7-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wm5vuyu1n7-gs5kwo9bz1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2622,15 +2622,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"Xzx2BN7L8XDuCMxnRJJtocT85kMiie4bTJPlu9F7ezM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:42:19 GMT"
+          "Value": "Sun, 26 Jan 2025 19:45:48 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2646,26 +2646,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"sNUCKjqNoS6Ue1S+mraoAvUWojasXgdgis24dsXQrjo=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-sNUCKjqNoS6Ue1S+mraoAvUWojasXgdgis24dsXQrjo="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2675,7 +2667,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "669"
         },
         {
           "Name": "Content-Type",
@@ -2683,35 +2675,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"sNUCKjqNoS6Ue1S+mraoAvUWojasXgdgis24dsXQrjo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:42:19 GMT"
+          "Value": "Sun, 26 Jan 2025 19:45:48 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-sNUCKjqNoS6Ue1S+mraoAvUWojasXgdgis24dsXQrjo="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wm5vuyu1n7-b9sayid5wm.gz",
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wm5vuyu1n7-gs5kwo9bz1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2728,11 +2712,164 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"Xzx2BN7L8XDuCMxnRJJtocT85kMiie4bTJPlu9F7ezM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:42:19 GMT"
+          "Value": "Sun, 26 Jan 2025 19:45:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xzx2BN7L8XDuCMxnRJJtocT85kMiie4bTJPlu9F7ezM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.gs5kwo9bz1.css",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wm5vuyu1n7-gs5kwo9bz1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,003134796238"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "318"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xzx2BN7L8XDuCMxnRJJtocT85kMiie4bTJPlu9F7ezM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:45:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sNUCKjqNoS6Ue1S+mraoAvUWojasXgdgis24dsXQrjo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gs5kwo9bz1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sNUCKjqNoS6Ue1S+mraoAvUWojasXgdgis24dsXQrjo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.gs5kwo9bz1.css",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sNUCKjqNoS6Ue1S+mraoAvUWojasXgdgis24dsXQrjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:45:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gs5kwo9bz1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sNUCKjqNoS6Ue1S+mraoAvUWojasXgdgis24dsXQrjo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.gs5kwo9bz1.css.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wm5vuyu1n7-gs5kwo9bz1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xzx2BN7L8XDuCMxnRJJtocT85kMiie4bTJPlu9F7ezM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:45:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2750,7 +2887,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "gs5kwo9bz1"
         },
         {
           "Name": "label",
@@ -2758,155 +2895,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wm5vuyu1n7-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,003134796238"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:42:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:42:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wm5vuyu1n7-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 10:42:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-Xzx2BN7L8XDuCMxnRJJtocT85kMiie4bTJPlu9F7ezM="
         }
       ]
     },
     {
       "Route": "dt191g_mom1.bundle.scp.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-v1trfta9re.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-kq4bbtsnxm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,001851851852"
+          "Quality": "0,001848428835"
         }
       ],
       "ResponseHeaders": [
@@ -2916,15 +2916,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "540"
         },
         {
           "Name": "ETag",
-          "Value": "\"8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo=\""
+          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 12:06:30 GMT"
+          "Value": "Sun, 26 Jan 2025 19:55:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2944,13 +2944,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o=\""
+          "Value": "W/\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o="
+          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
         }
       ]
     },
@@ -2965,7 +2965,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "1129"
         },
         {
           "Name": "Content-Type",
@@ -2973,11 +2973,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o=\""
+          "Value": "\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 12:06:30 GMT"
+          "Value": "Sun, 26 Jan 2025 19:55:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2987,13 +2987,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o="
+          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
         }
       ]
     },
     {
       "Route": "dt191g_mom1.bundle.scp.css.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-v1trfta9re.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-kq4bbtsnxm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3002,7 +3002,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "540"
         },
         {
           "Name": "Content-Type",
@@ -3010,11 +3010,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo=\""
+          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 12:06:30 GMT"
+          "Value": "Sun, 26 Jan 2025 19:55:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3032,18 +3032,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo="
+          "Value": "sha256-OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw="
         }
       ]
     },
     {
-      "Route": "dt191g_mom1.styles.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-v1trfta9re.gz",
+      "Route": "dt191g_mom1.kq4bbtsnxm.bundle.scp.css",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-kq4bbtsnxm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,001851851852"
+          "Quality": "0,001848428835"
         }
       ],
       "ResponseHeaders": [
@@ -3053,152 +3053,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "540"
         },
         {
           "Name": "ETag",
-          "Value": "\"8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo=\""
+          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 12:06:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o="
-        }
-      ]
-    },
-    {
-      "Route": "dt191g_mom1.styles.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1131"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 12:06:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o="
-        }
-      ]
-    },
-    {
-      "Route": "dt191g_mom1.styles.css.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-v1trfta9re.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "539"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 12:06:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo="
-        }
-      ]
-    },
-    {
-      "Route": "dt191g_mom1.v1trfta9re.bundle.scp.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-v1trfta9re.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,001851851852"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "539"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 12:06:30 GMT"
+          "Value": "Sun, 26 Jan 2025 19:55:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3218,13 +3081,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o=\""
+          "Value": "W/\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v1trfta9re"
+          "Value": "kq4bbtsnxm"
         },
         {
           "Name": "label",
@@ -3232,12 +3095,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o="
+          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
         }
       ]
     },
     {
-      "Route": "dt191g_mom1.v1trfta9re.bundle.scp.css",
+      "Route": "dt191g_mom1.kq4bbtsnxm.bundle.scp.css",
       "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\dt191g_mom1.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3247,7 +3110,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "1129"
         },
         {
           "Name": "Content-Type",
@@ -3255,11 +3118,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o=\""
+          "Value": "\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 12:06:30 GMT"
+          "Value": "Sun, 26 Jan 2025 19:55:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3269,7 +3132,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v1trfta9re"
+          "Value": "kq4bbtsnxm"
         },
         {
           "Name": "label",
@@ -3277,13 +3140,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o="
+          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
         }
       ]
     },
     {
-      "Route": "dt191g_mom1.v1trfta9re.bundle.scp.css.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-v1trfta9re.gz",
+      "Route": "dt191g_mom1.kq4bbtsnxm.bundle.scp.css.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\lxduouqpn6-kq4bbtsnxm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3292,7 +3155,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "540"
         },
         {
           "Name": "Content-Type",
@@ -3300,11 +3163,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo=\""
+          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 12:06:30 GMT"
+          "Value": "Sun, 26 Jan 2025 19:55:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3322,7 +3185,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v1trfta9re"
+          "Value": "kq4bbtsnxm"
         },
         {
           "Name": "label",
@@ -3330,18 +3193,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo="
+          "Value": "sha256-OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw="
         }
       ]
     },
     {
-      "Route": "dt191g_mom1.v1trfta9re.styles.css",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-v1trfta9re.gz",
+      "Route": "dt191g_mom1.kq4bbtsnxm.styles.css",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-kq4bbtsnxm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,001851851852"
+          "Quality": "0,001848428835"
         }
       ],
       "ResponseHeaders": [
@@ -3351,15 +3214,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "540"
         },
         {
           "Name": "ETag",
-          "Value": "\"8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo=\""
+          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 12:06:30 GMT"
+          "Value": "Sun, 26 Jan 2025 19:55:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3379,13 +3242,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o=\""
+          "Value": "W/\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v1trfta9re"
+          "Value": "kq4bbtsnxm"
         },
         {
           "Name": "label",
@@ -3393,12 +3256,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o="
+          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
         }
       ]
     },
     {
-      "Route": "dt191g_mom1.v1trfta9re.styles.css",
+      "Route": "dt191g_mom1.kq4bbtsnxm.styles.css",
       "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3408,7 +3271,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "1129"
         },
         {
           "Name": "Content-Type",
@@ -3416,11 +3279,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o=\""
+          "Value": "\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 12:06:30 GMT"
+          "Value": "Sun, 26 Jan 2025 19:55:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3430,7 +3293,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v1trfta9re"
+          "Value": "kq4bbtsnxm"
         },
         {
           "Name": "label",
@@ -3438,13 +3301,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-065yf2oaITBc0stFDz8FgNp4tDsW1pH/mSv79C5i9+o="
+          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
         }
       ]
     },
     {
-      "Route": "dt191g_mom1.v1trfta9re.styles.css.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-v1trfta9re.gz",
+      "Route": "dt191g_mom1.kq4bbtsnxm.styles.css.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-kq4bbtsnxm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3453,7 +3316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539"
+          "Value": "540"
         },
         {
           "Name": "Content-Type",
@@ -3461,11 +3324,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo=\""
+          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 12:06:30 GMT"
+          "Value": "Sun, 26 Jan 2025 19:55:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3483,7 +3346,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v1trfta9re"
+          "Value": "kq4bbtsnxm"
         },
         {
           "Name": "label",
@@ -3491,7 +3354,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8iFQWfB/1MFLiTycgrM2K7qO5tt0lhKMIF/q0iV+FNo="
+          "Value": "sha256-OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw="
+        }
+      ]
+    },
+    {
+      "Route": "dt191g_mom1.styles.css",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-kq4bbtsnxm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,001848428835"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
+        }
+      ]
+    },
+    {
+      "Route": "dt191g_mom1.styles.css",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vOscEmZz/bxpajSgi/g8lfbY3PlmgdpCZE0eJzYAssQ="
+        }
+      ]
+    },
+    {
+      "Route": "dt191g_mom1.styles.css.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\10u0gr2chr-kq4bbtsnxm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OvvlcC3Q0AgXAuy8RurOYVjA4Y0fmurh3DL47zoKsRw="
         }
       ]
     },
@@ -13628,8 +13628,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\gnkc6b7yxp-l2av4jpuoj.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ms3a76sank-l2av4jpuoj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -13683,8 +13683,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13720,8 +13720,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\gnkc6b7yxp-l2av4jpuoj.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.js.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ms3a76sank-l2av4jpuoj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13765,8 +13765,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\qf6669tcwg-kbynt5jhd9.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.js.kbynt5jhd9.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\neee2a098r-kbynt5jhd9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -13819,7 +13819,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.bundle.js.map"
         },
         {
           "Name": "integrity",
@@ -13828,8 +13828,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.js.kbynt5jhd9.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13864,7 +13864,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.bundle.js.map"
         },
         {
           "Name": "integrity",
@@ -13873,8 +13873,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\qf6669tcwg-kbynt5jhd9.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.js.kbynt5jhd9.map.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\neee2a098r-kbynt5jhd9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13917,7 +13917,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js.map.gz"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.bundle.js.map.gz"
         },
         {
           "Name": "integrity",
@@ -13926,8 +13926,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\qf6669tcwg-kbynt5jhd9.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\neee2a098r-kbynt5jhd9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -13981,8 +13981,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14018,8 +14018,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\qf6669tcwg-kbynt5jhd9.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.js.map.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\neee2a098r-kbynt5jhd9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14063,8 +14063,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\gnkc6b7yxp-l2av4jpuoj.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.l2av4jpuoj.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ms3a76sank-l2av4jpuoj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14117,7 +14117,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.bundle.js"
         },
         {
           "Name": "integrity",
@@ -14126,8 +14126,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.l2av4jpuoj.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14162,7 +14162,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.bundle.js"
         },
         {
           "Name": "integrity",
@@ -14171,8 +14171,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\gnkc6b7yxp-l2av4jpuoj.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.l2av4jpuoj.js.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ms3a76sank-l2av4jpuoj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14215,7 +14215,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js.gz"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.bundle.js.gz"
         },
         {
           "Name": "integrity",
@@ -14224,8 +14224,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\4gqalhxayp-25iw1kog22.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.25iw1kog22.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\a9wpybz29e-25iw1kog22.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14278,7 +14278,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js"
         },
         {
           "Name": "integrity",
@@ -14287,8 +14287,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.25iw1kog22.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14323,7 +14323,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js"
         },
         {
           "Name": "integrity",
@@ -14332,8 +14332,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\4gqalhxayp-25iw1kog22.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.25iw1kog22.js.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\a9wpybz29e-25iw1kog22.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14376,7 +14376,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.gz"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js.gz"
         },
         {
           "Name": "integrity",
@@ -14385,8 +14385,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\4gqalhxayp-25iw1kog22.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\a9wpybz29e-25iw1kog22.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14440,8 +14440,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14477,8 +14477,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ywj3xp42p7-c2nslu3uf3.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\79ttptan1f-c2nslu3uf3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14531,7 +14531,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js.map"
         },
         {
           "Name": "integrity",
@@ -14540,8 +14540,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14576,7 +14576,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js.map"
         },
         {
           "Name": "integrity",
@@ -14585,8 +14585,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ywj3xp42p7-c2nslu3uf3.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js.c2nslu3uf3.map.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\79ttptan1f-c2nslu3uf3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14629,7 +14629,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map.gz"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js.map.gz"
         },
         {
           "Name": "integrity",
@@ -14638,8 +14638,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\4gqalhxayp-25iw1kog22.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\a9wpybz29e-25iw1kog22.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14683,8 +14683,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ywj3xp42p7-c2nslu3uf3.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\79ttptan1f-c2nslu3uf3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14738,8 +14738,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14775,8 +14775,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ywj3xp42p7-c2nslu3uf3.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.bundle.min.js.map.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\79ttptan1f-c2nslu3uf3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14820,8 +14820,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\y5yf1gknww-m39kt2b5c9.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\w631ziyhd4-m39kt2b5c9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14875,8 +14875,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14912,8 +14912,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\0ddqhybqz7-2lgwfvgpvi.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.js.2lgwfvgpvi.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\pnksnjr5mv-2lgwfvgpvi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14966,7 +14966,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js.map"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.esm.js.map"
         },
         {
           "Name": "integrity",
@@ -14975,8 +14975,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.js.2lgwfvgpvi.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15011,7 +15011,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js.map"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.esm.js.map"
         },
         {
           "Name": "integrity",
@@ -15020,8 +15020,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\0ddqhybqz7-2lgwfvgpvi.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.js.2lgwfvgpvi.map.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\pnksnjr5mv-2lgwfvgpvi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15064,7 +15064,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js.map.gz"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.esm.js.map.gz"
         },
         {
           "Name": "integrity",
@@ -15073,8 +15073,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\y5yf1gknww-m39kt2b5c9.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.js.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\w631ziyhd4-m39kt2b5c9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15118,8 +15118,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\0ddqhybqz7-2lgwfvgpvi.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.js.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\pnksnjr5mv-2lgwfvgpvi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15173,8 +15173,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.js.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15210,8 +15210,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\0ddqhybqz7-2lgwfvgpvi.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.js.map.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\pnksnjr5mv-2lgwfvgpvi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15255,8 +15255,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\y5yf1gknww-m39kt2b5c9.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.m39kt2b5c9.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\w631ziyhd4-m39kt2b5c9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15309,7 +15309,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.esm.js"
         },
         {
           "Name": "integrity",
@@ -15318,8 +15318,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.m39kt2b5c9.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15354,7 +15354,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.esm.js"
         },
         {
           "Name": "integrity",
@@ -15363,8 +15363,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\y5yf1gknww-m39kt2b5c9.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.m39kt2b5c9.js.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\w631ziyhd4-m39kt2b5c9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15407,7 +15407,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js.gz"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.esm.js.gz"
         },
         {
           "Name": "integrity",
@@ -15416,8 +15416,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\71z37sl093-um2aeqy4ik.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\0lxedtoztr-um2aeqy4ik.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15471,8 +15471,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15508,8 +15508,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\71z37sl093-um2aeqy4ik.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\0lxedtoztr-um2aeqy4ik.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15553,8 +15553,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\tr6j8adwyx-wsezl0heh6.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\zeqrr4knbj-wsezl0heh6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15608,8 +15608,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15645,8 +15645,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\tr6j8adwyx-wsezl0heh6.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js.map.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\zeqrr4knbj-wsezl0heh6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15690,8 +15690,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\tr6j8adwyx-wsezl0heh6.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js.wsezl0heh6.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\zeqrr4knbj-wsezl0heh6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15744,7 +15744,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js.map"
         },
         {
           "Name": "integrity",
@@ -15753,8 +15753,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js.wsezl0heh6.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15789,7 +15789,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js.map"
         },
         {
           "Name": "integrity",
@@ -15798,8 +15798,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\tr6j8adwyx-wsezl0heh6.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js.wsezl0heh6.map.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\zeqrr4knbj-wsezl0heh6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15842,7 +15842,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map.gz"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js.map.gz"
         },
         {
           "Name": "integrity",
@@ -15851,8 +15851,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\71z37sl093-um2aeqy4ik.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.min.um2aeqy4ik.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\0lxedtoztr-um2aeqy4ik.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15905,7 +15905,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.min.js"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js"
         },
         {
           "Name": "integrity",
@@ -15914,8 +15914,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.min.um2aeqy4ik.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15950,7 +15950,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.min.js"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js"
         },
         {
           "Name": "integrity",
@@ -15959,8 +15959,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\71z37sl093-um2aeqy4ik.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.esm.min.um2aeqy4ik.js.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\0lxedtoztr-um2aeqy4ik.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16003,7 +16003,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.min.js.gz"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.esm.min.js.gz"
         },
         {
           "Name": "integrity",
@@ -16012,8 +16012,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\4vjs266fo3-o4kw7cc6tf.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\l7b38o105f-o4kw7cc6tf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16067,8 +16067,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16104,8 +16104,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\6q7ur5istf-6ukhryfubh.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.js.6ukhryfubh.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wz2n7izwy2-6ukhryfubh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16158,7 +16158,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.js.map"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.js.map"
         },
         {
           "Name": "integrity",
@@ -16167,8 +16167,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.js.6ukhryfubh.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16203,7 +16203,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.js.map"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.js.map"
         },
         {
           "Name": "integrity",
@@ -16212,8 +16212,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\6q7ur5istf-6ukhryfubh.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.js.6ukhryfubh.map.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wz2n7izwy2-6ukhryfubh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16256,7 +16256,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.js.map.gz"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.js.map.gz"
         },
         {
           "Name": "integrity",
@@ -16265,8 +16265,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.js.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\4vjs266fo3-o4kw7cc6tf.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.js.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\l7b38o105f-o4kw7cc6tf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16310,8 +16310,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\6q7ur5istf-6ukhryfubh.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.js.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wz2n7izwy2-6ukhryfubh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16365,8 +16365,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.js.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16402,8 +16402,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.js.map.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\6q7ur5istf-6ukhryfubh.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.js.map.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\wz2n7izwy2-6ukhryfubh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16447,8 +16447,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\rr8n6kse3p-zwph15dxgs.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.min.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ep4tnm1ao7-zwph15dxgs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16502,8 +16502,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.min.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16539,8 +16539,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\rr8n6kse3p-zwph15dxgs.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.min.js.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ep4tnm1ao7-zwph15dxgs.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16584,8 +16584,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\drt6779nik-u33ctipx7g.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.min.js.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\aq96b0g30i-u33ctipx7g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16639,8 +16639,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.min.js.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16676,8 +16676,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\drt6779nik-u33ctipx7g.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.min.js.map.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\aq96b0g30i-u33ctipx7g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16721,8 +16721,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\drt6779nik-u33ctipx7g.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.min.js.u33ctipx7g.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\aq96b0g30i-u33ctipx7g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16775,7 +16775,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.min.js.map"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.min.js.map"
         },
         {
           "Name": "integrity",
@@ -16784,8 +16784,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.min.js.u33ctipx7g.map",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16820,7 +16820,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.min.js.map"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.min.js.map"
         },
         {
           "Name": "integrity",
@@ -16829,8 +16829,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\drt6779nik-u33ctipx7g.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.min.js.u33ctipx7g.map.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\aq96b0g30i-u33ctipx7g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16873,7 +16873,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.min.js.map.gz"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.min.js.map.gz"
         },
         {
           "Name": "integrity",
@@ -16882,8 +16882,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\rr8n6kse3p-zwph15dxgs.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.min.zwph15dxgs.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ep4tnm1ao7-zwph15dxgs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16936,7 +16936,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.min.js"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.min.js"
         },
         {
           "Name": "integrity",
@@ -16945,8 +16945,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.min.zwph15dxgs.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16981,7 +16981,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.min.js"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.min.js"
         },
         {
           "Name": "integrity",
@@ -16990,8 +16990,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\rr8n6kse3p-zwph15dxgs.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.min.zwph15dxgs.js.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\ep4tnm1ao7-zwph15dxgs.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17034,7 +17034,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.min.js.gz"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.min.js.gz"
         },
         {
           "Name": "integrity",
@@ -17043,8 +17043,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\4vjs266fo3-o4kw7cc6tf.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.o4kw7cc6tf.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\l7b38o105f-o4kw7cc6tf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -17097,7 +17097,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.js"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.js"
         },
         {
           "Name": "integrity",
@@ -17106,8 +17106,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.o4kw7cc6tf.js",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\wwwroot\\lib\\bootstrap\\dist\\css\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17142,7 +17142,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.js"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.js"
         },
         {
           "Name": "integrity",
@@ -17151,8 +17151,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\4vjs266fo3-o4kw7cc6tf.gz",
+      "Route": "lib/bootstrap/dist/css/js/bootstrap.o4kw7cc6tf.js.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1\\obj\\Debug\\net9.0\\compressed\\l7b38o105f-o4kw7cc6tf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17195,7 +17195,7 @@
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.js.gz"
+          "Value": "lib/bootstrap/dist/css/js/bootstrap.js.gz"
         },
         {
           "Name": "integrity",

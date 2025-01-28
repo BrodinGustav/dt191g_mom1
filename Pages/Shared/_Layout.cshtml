@@ -5,26 +5,25 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewData["Title"] - dt191g_mom1</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true">
     <link rel="stylesheet" href="~/dt191g_mom1.styles.css" asp-append-version="true">
 </head>
 
 <body>
     <!-- Header -->
-    <header class="bg-primary text-white py-3">
+    <header class="header">
 
         <div class="container">
-            <div class="row align-items-center">
+            <div class="row header-row">
+
                 <!-- Första kolumnen -->
-                <div class="col-md-6 text-center text-md-start">
-                    <!--Varje kolumn tar upp halva bredden vid viewport >768px och staplas i column vid <- 768px-->
+               <div class="col-left">
                     <h1>dt191g_mom1</h1>
                 </div>
 
                 <!-- Andra kolumnen -->
-                <div class="col-md-6 text-center text-md-end">
-                    <p>Dagens datum är: @Model.CurrentDateTime</p>
+               <div class="col-right">
+                    <p>Dagens datum är: @Model.CurrentDateTime</p>  <!--Hämtar funktion från RazorModel -->
                 </div>
 
             </div>
@@ -32,13 +31,13 @@
     </header>
 
     <!-- Main content area -->
-    <div class="container-fluid"> <!--100% width för alla breakpoints-->
+    <div class="main-container"> 
         <div class="row">
 
-            <!-- Left column: Navigation.- Tar upp 3 kolumner av 12 -->
-            <div class="col-md-3 bg-light p-3">
+            <!-- Left column: Navigation -->
+            <div class="nav-column">
                 <h3>Navigation</h3>
-                <ul class="list-unstyled">
+                <ul class="nav-list">
 
                     <!--Använder asp-page för att länka till Razor-sidor -->
                     <li><a class="nav-link text-dark" asp-area="" asp-page="/Index">Start</a></li>
@@ -52,9 +51,9 @@
             </div>
 
 
-            <!-- Right column: Välkomsttext.- Tar upp 9 kolumner av 12 -->
-            <div class="col-md-9 p-3">
-                <main role="main" class="pb-3">
+            <!-- Right column: Välkomsttext -->
+            <div class="content-column">
+                <main role="main">
                     @RenderBody() <!-- Här renderas huvudtexten från sidan -->
                 </main>
             </div>
@@ -62,15 +61,13 @@
     </div>
 
     <!-- Footer -->
-    <footer class="bg-dark text-white text-center py-3 mt-5">
+    <footer class="footer">
         <div class="container">
             <p>Av: Gustav Brodin -- Kontakta mig via epost: gueb0900@student.miun.se</p>
         </div>
     </footer>
 
     <!-- Scripts -->
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
 
     @await RenderSectionAsync("Scripts", required: false)

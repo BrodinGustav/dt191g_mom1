@@ -1,56 +1,182 @@
-html,
-body {
-  font-size: 14px;
+/* Global styling */
+* {
   margin: 0;
   padding: 0;
-  height: 100%;
-}
-
-.dark-mode {
-  background-color: #121212;
-  color: #ffffff;
-}
-
-#darkModeToggle{
-  border-radius: 20px;
-  padding:5px;
-}
-
-#darkModeToggle:hover{
-  background-color: #6c757d;
-  color:white;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus,
-.btn:active:focus,
-.btn-link.nav-link:focus,
-.form-control:focus,
-.form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
+  box-sizing: border-box;
 }
 
 body {
-  margin-bottom: 60px;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
 }
 
-.form-floating>.form-control-plaintext::placeholder,
-.form-floating>.form-control::placeholder {
-  color: var(--bs-secondary-color);
-  text-align: end;
+/* Header */
+.header {
+  background-color: #007bff;
+  color: white;
+  padding: 15px;
 }
 
-.form-floating>.form-control-plaintext:focus::placeholder,
-.form-floating>.form-control:focus::placeholder {
-  text-align: start;
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-row {
+  display: flex;
+  width: 100%;
+}
+
+.col-left {
+  flex: 1;
+  text-align: left;
+}
+
+.col-right {
+  flex: 1;
+  text-align: right;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+/* Main container */
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+}
+
+/* Navigation (vänster kolumn */
+.nav-column {
+  width: 25%;
+  height:70vh;
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+.nav-list {
+  list-style: none;
+  padding: 0;
+}
+
+.nav-link {
+  display: block;
+  color: #333;
+  text-decoration: none;
+  padding: 10px 0;
+}
+
+.nav-link:hover {
+  background-color: #ddd;
+}
+
+/* Höger kolumn */
+.content-column {
+  width: 70vw;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/* Footer */
+.footer {
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+/* Button */
+#darkModeToggle {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+#darkModeToggle:hover {
+  background-color: #0056b3;
+}
+
+/* Style för dark-mode */
+body.dark-mode {
+  background-color: #121212;
+  color: #333;
+}
+
+body.dark-mode .header {
+  background-color: #333333;
+}
+
+body.dark-mode .nav-column {
+  background-color: #1c1c1c;
+}
+
+body.dark-mode .nav-link {
+  color: #ddd;
+}
+
+body.dark-mode .nav-link:hover {
+  background-color: #444;
+}
+
+/* about-sidan */
+.text{
+  text-align: left;
+  line-height:1.8em;
+}
+
+.text h2, h1{
+  margin-top:1em;
+  margin-bottom:1em;
+}
+
+/* razor-sidan */
+ul {
+  line-height: 1.8em;
+}
+
+/* Media Queries */
+
+/* Responsive design */
+@media (max-width: 768px) {
+  
+  .header{
+    flex-direction: column;
+  }
+
+  .row {
+      flex-direction: column;
+  }
+
+  .nav-column {
+      width: 100%;
+      margin-bottom: 20px;
+  }
+
+  .content-column {
+      width: 100%;
+  }
+
+  /* about-sidan */
+.text{
+  text-align: center;
+ }
+
 }
